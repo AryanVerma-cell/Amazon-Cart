@@ -9,7 +9,6 @@ Hosted with GitHub Pages.
 ✅ Responsive layout  
 ✅ Product cards  
 ✅ Navigation bar  
-(…add more as you build)
 
 ## Tech
 💡 HTML  
